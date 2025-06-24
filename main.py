@@ -34,6 +34,6 @@ def predire_sport(ia):
     if prediction[0] == 1:
         print("Tu fais du sport ! Continue comme ça")
     else:
-        print("😕 Tu ne sembles pas faire de sport. Il n'est jamais trop tard pour s'y mettre 😉")
+        print("Tu ne sembles pas faire de sport. Il n'est jamais trop tard pour s'y mettre 😉")
 
 predire_sport(ia)
