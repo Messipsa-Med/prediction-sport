@@ -9,7 +9,7 @@ Ce projet prédit si une personne fait du sport selon son âge, sommeil, temps d
 - `requirements.txt` : dépendances
 - `.gitignore` : fichiers à ignorer
 
-## ▶️ Exécution
+## Exécution
 
 ```bash
 python main.py
