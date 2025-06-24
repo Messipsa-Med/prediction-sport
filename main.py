@@ -35,9 +35,9 @@ def demander_energie(user_value):
             if 0 <= valeur <= 10:
                 return valeur
             else:
-                print("⚠️ Merci d’entrer une valeur entre 0 et 10.")
+                print("Merci d’entrer une valeur entre 0 et 10.")
         else:
-            print("❌ Entrée invalide. Merci d'entrer un nombre entier.")
+            print("Entrée invalide. Merci d'entrer un nombre entier.")
             
 def predire_sport():
 
