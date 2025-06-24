@@ -6,7 +6,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score, confusion_matrix
 
 # Charger les données
-df = pd.read_csv("sante.csv")
+df = pd.read_csv("sport.csv")
 
 # Séparer les variables
 X = df[["age", "sommeil", "ecran", "energie"]]  # Entrées
