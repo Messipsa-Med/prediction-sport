@@ -1,4 +1,4 @@
-Prédiction d'activité sportive avec IA
+# Prédiction d'activité sportive avec IA
 
 [![Ouvrir dans Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Messipsa-Med/prediction-sport/blob/main/main.ipynb)
 
