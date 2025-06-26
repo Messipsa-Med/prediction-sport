@@ -55,5 +55,5 @@ def predire_sport():
     else:
         print("Tu ne sembles pas faire de sport. Il n’est jamais trop tard 😉")
 
-if __name__ = "__main__":
+if __name__ == "__main__":
     predire_sport()
