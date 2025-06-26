@@ -54,5 +54,6 @@ def predire_sport():
         print("Tu fais du sport ! Continue comme ça")
     else:
         print("Tu ne sembles pas faire de sport. Il n’est jamais trop tard 😉")
-        
-predire_sport(ia)
+
+if __name__ = "__main__":
+    predire_sport()
