@@ -24,7 +24,7 @@ def demander_entier(user_value):
         valeur = input(user_value)
         if valeur.isdigit():
             return int(valeur)
-        print("❌ Entrée invalide. Merci d'entrer un nombre entier.")
+        print("Entrée invalide. Merci d'entrer un nombre entier.")
 
 def demander_energie(user_value):
     "Demande un entier entre 0 et 10 pour le niveau d'énergie"
